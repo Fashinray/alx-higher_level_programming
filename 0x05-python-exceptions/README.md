@@ -1,1 +1,1 @@
-Basic understanding about "EXPECTATION" in PYTHON
+Basic understanding about "EXPECTATION" in PYTHON LANGUAGE
