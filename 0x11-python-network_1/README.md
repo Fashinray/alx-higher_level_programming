@@ -1,4 +1,4 @@
-# Python - Network #1
+i# Python - Network #1
 
 ![](https://sf.ezoiccdn.com/ezoimgfmt/networkencyclopedia.com/wp-content/uploads/2019/08/computer-networking-1.jpg?ezimgfmt=ng%3Awebp%2Fngcb2%2Frs%3Adevice%2Frscb2-1)
 
@@ -18,8 +18,8 @@
 - Quickstart with Requests package
 - Requests package
 
-## Requirements
 
+## Requirements
 - Allowed editors: `vi`, `vim`, `emacs`
 - All your files will be interpreted/compiled on `Ubuntu 20.04 LTS` using `python3 (version 3.8.5)`
 - All your files should __end with a new line__
